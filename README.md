@@ -45,6 +45,6 @@ Running the Notebook
 - **Launch the Gradio interface for real-time predictions.**
 
 ### Using the Gradio Interface
-Once the notebook is executed, a Gradio web interface will launch.
+- **Once the notebook is executed, a Gradio web interface will launch.**
 
-Use the interface to upload images and instantly view the model's predictions along with confidence scores.
+- **Use the interface to upload images and instantly view the model's predictions along with confidence scores.**
