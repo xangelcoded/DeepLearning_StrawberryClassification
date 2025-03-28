@@ -35,17 +35,16 @@ DeepLearning_StrawberryClassification/ ├── StrawberryClassification.ipynb 
 
 ## Usage
 Running the Notebook
-Open StrawberryClassification.ipynb in Jupyter Notebook or JupyterLab.
+### Open StrawberryClassification.ipynb in Jupyter Notebook or JupyterLab.
+### Execute the cells sequentially to:
 
-Execute the cells sequentially to:
+- **Download and preprocess the dataset.**
 
-Download and preprocess the dataset.
+- **Build, train, and evaluate the model.**
 
-Build, train, and evaluate the model.
+- **Launch the Gradio interface for real-time predictions.**
 
-Launch the Gradio interface for real-time predictions.
-
-Using the Gradio Interface
+### Using the Gradio Interface
 Once the notebook is executed, a Gradio web interface will launch.
 
 Use the interface to upload images and instantly view the model's predictions along with confidence scores.
