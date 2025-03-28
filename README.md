@@ -25,14 +25,17 @@ DeepLearning_StrawberryClassification/ ├── StrawberryClassification.ipynb 
 
 ### Steps
 1. **Clone the Repository:**
-
+   ```bash
    git clone https://github.com/xangelcoded/DeepLearning_StrawberryClassification.git
    cd DeepLearning_StrawberryClassification
-Install Dependencies: Install all required packages using pip:
 
+2. **Install Dependencies: Install all required packages using pip:**
 
+bash
+Copy
 pip install -r requirements.txt
-Usage
+
+## Usage
 Running the Notebook
 Open StrawberryClassification.ipynb in Jupyter Notebook or JupyterLab.
 
