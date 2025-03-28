@@ -30,10 +30,8 @@ DeepLearning_StrawberryClassification/ ├── StrawberryClassification.ipynb 
    cd DeepLearning_StrawberryClassification
 
 2. **Install Dependencies: Install all required packages using pip:**
-
-bash
-Copy
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 ## Usage
 Running the Notebook
